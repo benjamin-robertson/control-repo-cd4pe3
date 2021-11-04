@@ -35,3 +35,14 @@ mod 'dog_site',
   git:          'git@github.com:benjamin-robertson/dog-site.git',
   branch:       :control_branch,
   default_branch:   'main'
+
+
+
+mod 'danieldreier/autosign'
+mod 'ghoneycutt-common', '1.10.0'
+mod 'ghoneycutt-rsyslog', '0.26.0'
+mod 'ghoneycutt-sysklogd', '1.2.0'
+mod 'puppet-archive', '6.0.1'
+mod 'puppetlabs-powershell', '5.0.0'
+mod 'puppetlabs-puppet_agent', '4.8.0'
+mod 'puppetlabs-puppet_authorization', '0.5.1'
