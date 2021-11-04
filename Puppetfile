@@ -18,3 +18,18 @@ mod 'motd',
   git:      'https://github.com/puppetlabs/puppetlabs-motd.git',
   branch:   'main',
   tag:      'v4.2.0'
+
+# Windows stuff
+mod 'dsc-networkingdsc', '8.2.0-0-1'
+mod 'dsc-auditpolicydsc', '1.4.0-0-2'
+mod 'dsc-securitypolicydsc', '2.10.0-0-3'
+mod 'dsc-storagedsc', '5.0.1-0-2'
+mod 'dsc-xpsdesiredstateconfiguration', '9.1.0-0-2'
+mod 'puppetlabs-iis', '8.0.2'
+mod 'puppetlabs-registry', '3.2.0'
+
+
+mod 'dog_site',
+  git:          'git@github.com:benjamin-robertson/dog-site.git',
+  branch:       :control_branch,
+  default_branch:   'main'
