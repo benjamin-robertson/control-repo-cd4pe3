@@ -32,7 +32,7 @@ mod 'puppetlabs-pwshlib', '0.10.1'
 
 
 mod 'dog_site',
-  git:          'git@github.com:benjamin-robertson/dog-site.git',
+  git:          'https://github.com/benjamin-robertson/dog-site-cd4pe3x.git',
   branch:       :control_branch,
   default_branch:   'main'
 
