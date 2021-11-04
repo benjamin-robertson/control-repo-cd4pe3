@@ -28,6 +28,7 @@ mod 'dsc-xpsdesiredstateconfiguration', '9.1.0-0-2'
 mod 'puppetlabs-iis', '8.0.2'
 mod 'puppetlabs-registry', '3.2.0'
 mod 'puppetlabs-acl', '4.0.0'
+mod 'puppetlabs-pwshlib', '0.10.1'
 
 
 mod 'dog_site',
