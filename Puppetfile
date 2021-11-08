@@ -19,7 +19,7 @@ mod 'motd',
   branch:   'main',
   tag:      'v4.2.0'
 
-# Windows stuff
+# Windows stuff. 
 mod 'dsc-networkingdsc', '8.2.0-0-1'
 mod 'dsc-auditpolicydsc', '1.4.0-0-2'
 mod 'dsc-securitypolicydsc', '2.10.0-0-3'
