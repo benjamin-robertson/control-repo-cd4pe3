@@ -7,7 +7,7 @@ class profile::windows::users {
     groups  => 'Administrators'
   }
 
-  user { 'ben123':
+  user { 'ben1234':
     ensure  => 'present',
     comment => 'bens user account lol123',
     groups  => 'Administrators'
